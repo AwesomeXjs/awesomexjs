@@ -22,6 +22,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomexjs&show_icons=true&theme=tokyonight)
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=awesomexjs&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 
 Follow me
