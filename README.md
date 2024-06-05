@@ -1,7 +1,7 @@
 ![Header](https://github.com/AwesomeXjs/awesomexjs/blob/main/assets/412.jpg)
 
 
-About Me
+## Hello! My name is Dmitriy. I'm beginner fullstack developer.
 
 
 Latest You tube
