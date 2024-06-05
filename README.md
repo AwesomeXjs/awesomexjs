@@ -6,8 +6,8 @@
 
 Latest You tube
 
+![Static Badge](https://img.shields.io/badge/Python)
 
-![Python](https://img.shields.io/badge/Python?style=flat-square&logo=python)
 
 
 
