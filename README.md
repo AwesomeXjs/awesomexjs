@@ -6,9 +6,7 @@
 
 Latest You tube
 
-![Static Badge](https://img.shields.io/badge/Python)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomexjs&show_icons=true&theme=radical)
 
 
 
