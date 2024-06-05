@@ -7,7 +7,9 @@
 Latest You tube
 
 
-Languages and tools
+![Static Badge](https://img.shields.io/badge/Python?style=flat-square&logo=python)
+
+
 
 
 Follow me
