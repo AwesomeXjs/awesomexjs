@@ -22,6 +22,10 @@
 |----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" title="poetry" alt="poetry" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="80" height="55"/>| 
 
+### Examples of my work on ReactJS:
+
+
+
 <p align="center">
 <img width="800" height="220" src="https://streak-stats.demolab.com?user=awesomexjs&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=awesomexjs&show_icons=true&theme=vision-friendly-dark">
