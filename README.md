@@ -23,7 +23,9 @@
 |<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" title="poetry" alt="poetry" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="80" height="55"/>| 
 
 ### Examples of my work on ReactJS:
-
+<p align="center">
+ <img width="1000" src="https://github.com/AwesomeXjs/awesomexjs/blob/main/assets/evrika.jpg" alt="snake"/>
+</p>
 
 
 <p align="center">
