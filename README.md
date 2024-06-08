@@ -24,7 +24,9 @@
 
 ### Examples of my work on ReactJS:
 <p align="center">
- <img width="1000" src="https://github.com/AwesomeXjs/awesomexjs/blob/main/assets/evrika.jpg" alt="snake"/>
+  <a href="https://aweso0mex.github.io/tech-magazine/">
+    <img width="1000" src="https://github.com/AwesomeXjs/awesomexjs/blob/main/assets/evrika.jpg" alt="snake"/>
+  </a>
 </p>
 
 
