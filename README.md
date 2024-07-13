@@ -1,7 +1,7 @@
 ![Header](https://github.com/AwesomeXjs/awesomexjs/blob/main/assets/432.png)
 
 
-## Hello! My name is Dmitriy. I'm beginner fullstack developer.
+## Hello! My name is Dmitriy. I'm fullstack developer.
 
 
 ### Languages:
