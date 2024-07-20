@@ -10,8 +10,9 @@
 
 ### Best Frontend frameworks and main libraries for me:
 
-| Vue3                                                                                                                                               | Vuetify                                                                                                                                               | React                                                                                                                                                                                                                                                                        | Redux                                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vue3 | Vuetify | React | Redux |
+| ---- | ------- | ----- | ----- |
+
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue"  alt="vue" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vuetify"  alt="vuetify" width="55" height="55"/> | <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" title="react" alt="react" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/> |
 
 ### Best Backend frameworks and main libraries for me:
