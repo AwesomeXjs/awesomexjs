@@ -1,7 +1,3 @@
-![Header](https://github.com/AwesomeXjs/awesomexjs/blob/main/assets/555.png)
-
-## Hello! My name is Dmitriy. I'm fullstack developer.
-
 ### Languages:
 
 | JS                                                                                                                                                               | TypeScript                                                                                                                                                                                                                                                        | Python      | Go                                                                                                                                                                                                                                                                     |
